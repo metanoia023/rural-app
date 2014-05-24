@@ -5,7 +5,7 @@ using System.Text;
 
 namespace domain
 {
-    class animal
+    class Animal
     {
         #region properties
 
@@ -19,5 +19,12 @@ namespace domain
         public string DicosePropietario { get; set; }
 
         #endregion
+
+        #region constructores
+
+        pub
+
+        #endregion
+
     }
 }
