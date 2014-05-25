@@ -88,6 +88,7 @@
                 <td>
                     <asp:Button ID="btnAltaAnimal" runat="server" OnClick="Button1_Click" Text="Aceptar" />
                     <asp:Button ID="btnCancelarAlta" runat="server" Text="Cancelar" />
+                    <asp:Label ID="lblResultado" runat="server"></asp:Label>
                  </td>
                
             </tr>

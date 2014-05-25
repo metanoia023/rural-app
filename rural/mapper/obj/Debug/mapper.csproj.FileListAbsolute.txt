@@ -1,0 +1,4 @@
+D:\rural\rural\mapper\bin\Debug\mapper.dll
+D:\rural\rural\mapper\bin\Debug\mapper.pdb
+D:\rural\rural\mapper\obj\Debug\mapper.dll
+D:\rural\rural\mapper\obj\Debug\mapper.pdb

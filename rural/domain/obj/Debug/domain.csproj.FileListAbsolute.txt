@@ -1,0 +1,5 @@
+D:\rural\rural\ClassLibrary1\bin\Debug\domain.dll
+D:\rural\rural\ClassLibrary1\bin\Debug\domain.pdb
+D:\rural\rural\ClassLibrary1\obj\Debug\domain.csprojResolveAssemblyReference.cache
+D:\rural\rural\ClassLibrary1\obj\Debug\domain.dll
+D:\rural\rural\ClassLibrary1\obj\Debug\domain.pdb
